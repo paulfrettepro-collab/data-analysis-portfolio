@@ -1,12 +1,18 @@
 # 📊 Projet d'Analyse de Données - Data Quality & Customer Insights
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 ## 🎯 Présentation du Projet
 
 Ce projet présente une série d'analyses de données réalisées dans le cadre d'un projet de **fusion et de nettoyage de bases de données clients** provenant de multiples sources. L'objectif principal était d'unifier, nettoyer et analyser des données de contacts et de clients pour améliorer la qualité des données et générer des insights business.
 
 ### Contexte
 
-- **Problématique** : Consolidation de données clients provenant de 27 bases de données postgre SQL, avec des schémas hétérogènes et des problèmes de qualité
+- **Problématique** : Consolidation de données clients provenant de 3 sources différentes avec des schémas hétérogènes et des problèmes de qualité
 - **Objectifs** :
   - Unifier les schémas de données hétérogènes
   - Nettoyer et valider les données (emails, téléphones)
