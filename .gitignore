@@ -37,7 +37,7 @@ ENV/
 *.swo
 *~
 
-# Data files (sensibles)
+# Data files
 *.csv
 *.xlsx
 *.xls
@@ -45,6 +45,9 @@ ENV/
 data/
 raw/
 cleaned/
+
+# Original notebooks with real data paths (for backup only)
+notebooks/_original/
 
 # OS
 .DS_Store

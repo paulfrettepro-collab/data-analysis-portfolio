@@ -12,7 +12,7 @@ Ce projet présente une série d'analyses de données réalisées dans le cadre 
 
 ### Contexte
 
-- **Problématique** : Consolidation de données clients provenant de 3 sources différentes avec des schémas hétérogènes et des problèmes de qualité
+- **Problématique** : Consolidation de données clients provenant de 27 sources différentes avec des schémas hétérogènes et des problèmes de qualité
 - **Objectifs** :
   - Unifier les schémas de données hétérogènes
   - Nettoyer et valider les données (emails, téléphones)
