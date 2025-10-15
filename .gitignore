@@ -49,6 +49,15 @@ cleaned/
 # Original notebooks with real data paths (for backup only)
 notebooks/_original/
 
+# Documentation interne (non visible pour le public)
+GITHUB_SETUP.md
+PROJECT_SUMMARY.md
+PUBLICATION_GUIDE.md
+✅_READY_TO_PUBLISH.md
+🎉_SUCCESS_REPORT.md
+📋_GUIDE_FINAL.md
+docs/
+
 # OS
 .DS_Store
 .DS_Store?
