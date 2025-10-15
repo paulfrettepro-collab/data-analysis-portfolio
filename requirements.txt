@@ -1,0 +1,17 @@
+# Requirements pour le projet Data Analysis Portfolio
+
+# Core Data Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Additional utilities (optional)
+openpyxl>=3.1.0  # Pour lire/écrire Excel
+scikit-learn>=1.3.0  # Pour analyses ML futures
